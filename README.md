@@ -1,4 +1,4 @@
-![image](https://github.com/ReemaAlharbi01/Recomandation-system/assets/122248897/2b04bd4e-025b-481e-acf9-781e1bc055ac)By using the STC TV dataset from Misk Virtual Work, I developed a recommendation system for series and movies. The system recommends it based on:
+By using the STC TV dataset from Misk Virtual Work, I developed a recommendation system for series and movies. The system recommends it based on:
 
 first, finding similar users
 
